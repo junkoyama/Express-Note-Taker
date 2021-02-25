@@ -29,8 +29,8 @@ module.exports = (app) => {
 
     //app.delete
     app.delete('/api/notes/:id', (req, res) => {
-        // Reference link for how to delete with unique id: https://stackoverflow.com/questions/55118708/how-remove-object-of-the-matched-req-params-id 
-        const getNote = dbNotes.filter(note => note.id !== id);
+        // Reference link for how to delete with unique id: https://stackoverflow.com/questions/55118708/how-remove-object-of-the-matched-req-params-id  and https://ultimatecourses.com/blog/remove-specific-item-from-array-javascript#avoiding-the-delete-keyword
+        const getNote = dbNotes.filter(req => req.id !== id);
 
         const deleteNote = dbNotes.splice(getNote, 1);
 
