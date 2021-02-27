@@ -1,4 +1,5 @@
 # Express-Note-Taker
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/junkoyama/Express-Note-Taker">
 
 ## Description
 
