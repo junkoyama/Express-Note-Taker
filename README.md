@@ -4,19 +4,26 @@
 ## Description
 </br>
 
+## Table of Contents
+* [Demonstration](#Demonstration)
+* [Technologies Used](#Technologies-Used)
+* [My Learnings](#My-Learnings)
+* [Installation](#Installation)
+
+
 ## Demonstration
 </br>
 
 ### Deployed Link to Video Demonstration: 
 </br>
 
-#### Homepage Screenshot:
+#### Homepage screenshot:
 </br>
 
 ![Index.html Screenshot](Assets/indexHtmlScreenshot.JPG)
 
 
-#### Main Page where users can start to create, save and delete notes:
+#### Main page where users can start to create, save and delete notes:
 </br>
 
 ![notes.html screenshot](Assets/notesHtmlScreenshot.JPG)
@@ -37,9 +44,9 @@
 </br>
 
 ## Installation
-</br>
 
 #### Start the server by running:
 ```
 npm start
 ```
+[Click Here to Return to Top Page](#Express-Note-Taker)
