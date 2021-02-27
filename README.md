@@ -66,8 +66,11 @@ $ npm start
 ## My Learnings
 
 :white_check_mark: Creating own server-side API using Express.js framework
+</br>
 :white_check_mark: API Routing
+</br>
 :white_check_mark: HTTP POST requests
+</br>
 :white_check_mark: Express.static()
 
 
