@@ -9,6 +9,7 @@ This application welcomes users to write, save and delete notes. Let me help you
 ## Table of Contents
 * [Installation](#Installation)
 * [Demonstration](#Demonstration)
+* [Technologies Used](#Technologies-Used)
 * [Packages Used](#Technologies-Used)
 * [My Learnings](#My-Learnings)
 
