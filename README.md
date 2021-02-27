@@ -64,13 +64,11 @@ $ npm start
 ```
 
 ## My Learnings
-</br>
-
 
 :white_check_mark: Creating own server-side API using Express.js framework
-API Routing
-HTTP POST requests
-Express.static()
+:white_check_mark: API Routing
+:white_check_mark: HTTP POST requests
+:white_check_mark: Express.static()
 
 
 [Return to Top](#Express-Note-Taker)
