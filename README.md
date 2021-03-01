@@ -28,7 +28,7 @@ $ npm start
 ## Demonstration
 
 ### [Click Here for Demonstration Video]()
-### [Click Here for App's Deployed Link]("https://express-note-taker-by-junko.herokuapp.com/")
+### [Click Here for App's Deployed Link](https://express-note-taker-by-junko.herokuapp.com/)
 </br>
 
 
