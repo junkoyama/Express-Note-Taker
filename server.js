@@ -8,7 +8,9 @@ var apiRoutes = require("./routes/apiRoutes");
 // Set up the Express App
 // =============================================================
 var app = express();
-var PORT = 3000;
+// changing code to bind to $PORT env var.
+// Received error when deploying. Solution link: https://help.heroku.com/P1AVPANS/why-is-my-node-js-app-crashing-with-an-r10-error
+var PORT = process.env.PORT || 3000;
 
 // Set up the Express app to handle data parsing
 // =============================================================
