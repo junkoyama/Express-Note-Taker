@@ -26,8 +26,11 @@ $ npm install
 $ npm start
 ```
 ## Demonstration
-### Deployed Link to Video Demonstration: 
+
+### [Click Here for Demonstration Video]()
+### [Click Here for App's Deployed Link]("https://express-note-taker-by-junko.herokuapp.com/")
 </br>
+
 
 #### Homepage screenshot:
 </br>
