@@ -3,7 +3,7 @@
 // Set up the dependencies
 // =============================================================
 var express = require("express");
-var apiRoutes = require("./Develop/routes/apiRoutes");
+var apiRoutes = require("./routes/apiRoutes");
 
 // Set up the Express App
 // =============================================================
@@ -23,5 +23,3 @@ apiRoutes(app);
 app.listen(PORT, () => 
 console.log(`Listening on PORT: ${PORT}`)
 );
-
-
